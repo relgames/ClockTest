@@ -1,0 +1,2 @@
+1. mvn package
+2. java -jar target/clocktest-1.0-SNAPSHOT-jar-with-dependencies.jar
